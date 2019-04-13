@@ -1,0 +1,16 @@
+<xml>
+<Master><OrderID>10255</OrderID><CustomerID>RICSU</CustomerID><Company>永大企业</Company></Master>
+
+<Detail>
+  <ProductID>2</ProductID><Name>牛奶</Name><Price>15.2000</Price><Qty>20</Qty><Amount>304.0000</Amount>
+</Detail>
+<Detail>
+  <ProductID>16</ProductID><Name>饼干</Name><Price>13.9000</Price><Qty>35</Qty><Amount>486.5000</Amount>
+</Detail>
+<Detail><
+  ProductID>36</ProductID><Name>鱿鱼</Name><Price>15.2000</Price><Qty>25</Qty><Amount>380.0000</Amount>
+</Detail>
+<Detail>
+  <ProductID>59</ProductID><Name>苏澳奶酪</Name><Price>44.0000</Price><Qty>30</Qty><Amount>1320.0000</Amount>
+</Detail>
+</xml>
